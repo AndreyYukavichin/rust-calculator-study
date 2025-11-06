@@ -1,0 +1,1 @@
+/home/pengcheng/rustPC/demo17_dynamic_function_intergrate/target/debug/demo17_dynamic_function_intergrate: /home/pengcheng/rustPC/demo17_dynamic_function_intergrate/src/main.rs
